@@ -4,7 +4,7 @@
 
 ### Building ideas into useful technology.
 
-**Education & Computer Science Student · Python Learner · Aspiring AI Developer**
+**Education & Computer Science Student · Tech Enthusiast · Aspiring AI Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-frosh0xchange-111827?style=for-the-badge&logo=github)](https://github.com/frosh0xchange)
 [![Python](https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -17,14 +17,15 @@
 
 ## > whoami
 
-Hi, I'm **Frosh** — an Education and Computer Science student interested in software development, artificial intelligence, and technology that makes everyday tasks easier.
+Hi, I'm **Frosh**. I study **Education and Computer Science**, and I'm passionate about technology, exploring how things work, and building useful digital experiences.
 
-I learn by building. I'm focused on strengthening my programming foundations, experimenting with local AI models, and turning ideas into practical applications.
+I'm especially curious about artificial intelligence, programming, software development, and the ways technology can improve learning and everyday life. I learn best by experimenting, building projects, and improving one step at a time.
 
 - 🔭 **Building:** NEXORA AI, my personal local AI assistant.
 - 🌱 **Learning:** Python, desktop application development, and AI workflows.
 - 🧠 **Exploring:** Local language models with Ollama and Qwen3 1.7B.
-- 🎯 **Mission:** Build useful technology and keep growing as a developer.
+- 💡 **Interested in:** AI, software development, educational technology, and emerging tech.
+- 🎯 **Goal:** Turn ideas into practical technology while growing as a developer.
 - 🤝 **Open to:** Learning, collaboration, and beginner-friendly open-source contributions.
 
 ## > featured_projects
@@ -36,7 +37,7 @@ I learn by building. I'm focused on strengthening my programming foundations, ex
 ### 🤖 NEXORA AI
 **Personal AI assistant · In development**
 
-A Python-based assistant powered by a local language model through Ollama. The working prototype currently responds to messages in the terminal; the next goal is a polished desktop interface.
+A Python-based assistant powered by a local language model through Ollama. The working prototype responds to messages and can speak through the laptop's speakers. The project is growing toward a polished desktop assistant.
 
 **Stack:** Python · Ollama · Qwen3 1.7B
 
@@ -76,17 +77,13 @@ A beginner Tkinter login-interface project created while learning Python GUI dev
 
 ## > tech_stack
 
-<div align="center">
-
 | Area | Tools & technologies |
 |:--|:--|
 | Languages | Python · C++ *(learning)* |
 | AI & local models | Ollama · Qwen3 |
 | Development | VS Code · Git · GitHub |
 | GUI exploration | Python Tkinter |
-| Interests | AI applications · EdTech · Desktop software |
-
-</div>
+| Interests | Artificial intelligence · EdTech · Software · Emerging technology |
 
 ## > currently_focused_on
 
