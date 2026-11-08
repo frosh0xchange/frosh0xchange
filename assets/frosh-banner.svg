@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">FROSH developer banner</title><desc id="desc">Dark futuristic blue banner for Frosh, featuring code, circuits and AI-inspired graphics.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b18"/><stop offset=".55" stop-color="#071a35"/><stop offset="1" stop-color="#020711"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#1687ff"/><stop offset="1" stop-color="#6554ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#1d4e89" stroke-opacity=".23" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="url(#blue)" stroke-width="2" opacity=".72"><path d="M0 55H170l38 38h120M0 250h145l35-35h100M1200 62h-130l-40 40H900M1200 260h-160l-35-35H890"/><path d="M70 0v48l35 35v50M1110 0v55l-35 35v58M560 0v35l-25 25v40M680 320v-45l25-25v-45"/></g>
+<g fill="#22d3ee" opacity=".9"><circle cx="170" cy="93" r="4"/><circle cx="180" cy="215" r="4"/><circle cx="1070" cy="102" r="4"/><circle cx="1040" cy="225" r="4"/></g>
+<g transform="translate(95 78)" filter="url(#glow)"><rect x="0" y="0" width="155" height="155" rx="24" fill="#07172d" stroke="#1687ff" stroke-width="2"/><path d="M52 53L28 77l24 24M103 53l24 24-24 24M88 43L67 111" fill="none" stroke="#22d3ee" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="315" y="133" fill="#f4f8ff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="7">FROSH</text>
+<text x="320" y="174" fill="#73cfff" font-family="monospace" font-size="23" letter-spacing="3">frosh0xchange</text>
+<path d="M320 197H780" stroke="url(#blue)" stroke-width="3" filter="url(#glow)"/>
+<text x="320" y="238" fill="#d5e8ff" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="4">CODE  •  LEARN  •  BUILD  •  INNOVATE</text>
+<g transform="translate(900 65)" filter="url(#glow)"><rect width="220" height="190" rx="18" fill="#06152b" stroke="#176bca" stroke-width="2"/><rect x="22" y="22" width="176" height="100" rx="10" fill="#071f3d" stroke="#1e9bff"/><path d="M80 73l-18 17 18 17M140 73l18 17-18 17M125 63l-26 54" fill="none" stroke="#24d9f4" stroke-width="5" stroke-linecap="round"/><text x="110" y="153" text-anchor="middle" fill="#d7ecff" font-family="monospace" font-size="16">AI • PYTHON • TECH</text></g>
+<path d="M0 304H1200" stroke="url(#blue)" stroke-width="5" filter="url(#glow)"/>
+</svg>
