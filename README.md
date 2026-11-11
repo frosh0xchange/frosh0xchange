@@ -66,6 +66,20 @@ My public repository for sharing coding work and continuing my development journ
 </td>
 <td width="50%" valign="top">
 
+### 🌿 OMA Hair — Glow Journal
+**Live website · Website creation with Lovable**
+
+A branded website for OMA Hair featuring a journal/news section and customer reviews. The owner dashboard is designed to manage journal posts, publish or unpublish updates, feature posts, and moderate customer reviews.
+
+**Highlights:** Lovable · Admin dashboard · Journal CMS · Customer reviews
+
+[**Visit live website →**](https://oma-haircare-glow-journal.lovable.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔐 Python Login App
 **Earlier learning project**
 
